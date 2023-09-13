@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class FilterMethod {
     public static void main(String[] args) {
@@ -24,6 +25,11 @@ public class FilterMethod {
                 .getAge() >= 23 && element.getAvgMark() > 5).toList();
 
         System.out.println(ageAndAvgMark);
+
+        Stream<Student> myStream = Stream.of(st1, st2, st3, st4, st5);
+        List<Student> onlyFemale = myStream.filter(element->element.getSex() == 'f').toList();
+        System.out.println(onlyFemale);
+
     }
 }
 
