@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10fa33b2-403c-4d6f-a9a5-65564efd9dcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FilterMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEachMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FilterMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilterMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/ruslanfursa/IdeaProjects/StreamAPI"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruslanfursa/IdeaProjects/StreamAPI&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -44,6 +45,13 @@
   <component name="RunManager" selected="Application.FilterMethod">
     <configuration name="FilterMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FilterMethod" />
+      <module name="StreamAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachMethod" />
       <module name="StreamAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +67,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FilterMethod" />
+        <item itemvalue="Application.ForEachMethod" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
